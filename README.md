@@ -1,67 +1,90 @@
-TASK 3: Deep-Dive Analysis & Interactive Dashboarding
+# Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 
-Objective
+## Project Overview
 
-The objective of this analysis is to perform a detailed segmentation analysis on the sales dataset and develop an interactive Power BI dashboard to identify key business insights and performance trends.
+This project was completed as part of the ApexPlanet Data Analytics Internship – Task 3. The objective was to perform a deep-dive analysis on a sales dataset and build an interactive Power BI dashboard to identify business insights and support data-driven decision-making.
 
-Key Performance Indicators (KPIs)
-Total Sales – Represents the total revenue generated from all sales transactions.
-Total Profit – Represents the total profit earned by the business.
-Total Quantity Sold – Represents the total number of products sold.
-Average Order Value (AOV) – Represents the average revenue generated per order.
-Profit Margin (%) – Represents the percentage of profit earned from total sales.
-Segmentation Analysis
-1. Region-wise Sales Analysis
+## Objectives
 
-Region-wise sales analysis was conducted to identify the geographical area generating the highest revenue. The visualization helps compare sales performance across different regions and identify strong and weak markets.
+* Perform segmentation analysis on the sales dataset.
+* Define and calculate key business KPIs.
+* Analyze sales and profit across different business dimensions.
+* Build an interactive dashboard using Power BI.
+* Present business insights through visualizations.
 
-Finding: The region with the highest sales generated the maximum revenue contribution to the business.
+## Tools Used
 
-2. Category-wise Sales Analysis
+* Microsoft Power BI
+* Microsoft Excel
+* GitHub
 
-Category-wise analysis was performed to understand which product category contributes the most to overall sales.
+## Dataset
 
-Finding: The category with the highest sales demonstrates strong customer demand and market performance.
+The project uses a sales dataset containing information such as:
 
-3. Segment-wise Sales Analysis
+* Order Date
+* Region
+* Category
+* Segment
+* Sales
+* Profit
+* Quantity
+* Discount
 
-Customer segments were analyzed to determine which segment contributes the most revenue.
+## Key Performance Indicators (KPIs)
 
-Finding: The customer segment with the highest sales contributes the largest share of business revenue.
+* Total Sales
+* Total Profit
+* Total Quantity Sold
+* Average Order Value (AOV)
+* Profit Margin (%)
 
-4. Profit by Region Analysis
+## Dashboard Features
 
-Profit was analyzed across regions to identify the most profitable geographical market.
+The dashboard includes:
 
-Finding: The region with the highest profit contributes significantly to overall business profitability.
+* KPI Cards
 
-5. Profit by Category Analysis
+  * Total Sales
+  * Total Profit
+  * Total Quantity Sold
+  * Average Order Value
+  * Profit Margin
 
-Profit analysis was conducted for each product category to identify the most profitable category.
+* Visualizations
 
-Finding: The category with the highest profit provides the greatest financial return to the business.
+  * Region-wise Sales
+  * Category-wise Sales
+  * Segment-wise Sales
+  * Profit by Region
+  * Profit by Category
+  * Monthly Sales Trend
+  * Discount vs Profit Analysis
 
-6. Discount vs Profit Analysis
+## Key Insights
 
-A scatter plot was used to examine the relationship between discounts and profit.
+* Analyzed sales performance across different regions.
+* Compared profit across product categories.
+* Identified the customer segment contributing the highest sales.
+* Studied the relationship between discount and profit.
+* Visualized monthly sales trends for business analysis.
 
-Finding: Higher discounts generally reduce profit margins because the selling price decreases while costs remain relatively constant. This indicates that excessive discounting can negatively impact profitability.
+## Repository Contents
 
-Dashboard Components
-KPI Cards
-Total Sales
-Total Profit
-Total Quantity Sold
-Average Order Value
-Profit Margin %
-Visualizations
-Region-wise Sales Chart
-Category-wise Sales Chart
-Segment-wise Sales Chart
-Profit by Region Chart
-Profit by Category Chart
-Discount vs Profit Scatter Plot
+* Sales Dataset
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshots
+* Task 3 Report
+* README.md
 
-Conclusion
+## Conclusion
 
-The Power BI dashboard provides a comprehensive view of business performance through key metrics and visualizations. The segmentation analysis helps identify high-performing regions, categories, and customer segments while highlighting the impact of discounts on profitability. These insights can support better decision-making, improve sales strategies, and enhance overall business performance.
+This project demonstrates how Power BI can be used to analyze sales data, calculate important business KPIs, and create an interactive dashboard. The dashboard provides valuable insights into sales performance, profitability, customer segments, and business trends, helping support informed business decisions.
+
+## Author
+
+**Name:** Chinthapalli Leela Devi
+
+**Internship:** ApexPlanet Software Pvt. Ltd. – Data Analytics Internship
+
+**Task:** Task 3 – Deep-Dive Analysis & Interactive Dashboarding
